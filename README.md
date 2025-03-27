@@ -59,11 +59,7 @@ Made with passion by Josh, Aron & Rog (Binary Brothers)
    ```bash
    cd library-management-system
    ```
-3. Install any additional dependencies (if required):
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the application:
+3. Run the application:
    ```bash
    python Library.py
    ```
